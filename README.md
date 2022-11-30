@@ -4,4 +4,5 @@ To remove tag locally >> git tag -d v1.7
 To remove tag remotely >> git push origin --delete v1.7
 
 
-https://user-images.githubusercontent.com/101017183/204807908-d1c30354-5be8-499f-8e63-c49df7577ae4.png
+(![CICD-pipeline](https://user-images.githubusercontent.com/101017183/204813899-50b60043-7b14-4008-ab2e-f3068da3e875.png)
+
